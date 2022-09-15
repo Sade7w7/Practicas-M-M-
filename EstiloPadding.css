@@ -1,0 +1,33 @@
+.padre{
+    width: 800px;
+    margin: auto;
+}
+.margin{
+    background-color:#c35b55;
+    border-style: dashed;
+   
+    border-width: 4px;
+}
+.border1{
+    background-color: #f6f8cb;
+    border: solid 3px black;
+    opacity: 0.9;
+}
+.padding{
+    background-color: #75c082;
+    border-style: dotted;
+}
+.content{
+    background-color: #cbf6f8;
+    text-align: center;
+    border: solid 2px black;
+    bottom: 10px;
+    position: relative;
+    padding: 0;
+   
+}
+
+div {
+    padding: 15px;
+    margin: 40px;
+  }
